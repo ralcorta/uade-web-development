@@ -80,4 +80,6 @@ main {
 .columna2 ul {
   list-style-type: none;
   padding: 0;
+  padding-left: 30px;
+  padding-top: 20px
 }
